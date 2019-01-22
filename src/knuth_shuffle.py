@@ -24,6 +24,8 @@ def knuth_shuffle(input_list):
 # code downloaded from the Internet
 # cannot find the source
 #
+# DEVNOTE: found the source
+# URL: https://gist.github.com/JenkinsDev/1e4bff898c72ec55df6f
 def knuth_shuffle_improved(input_list):
     amnt_to_shuffle = len(input_list)
 
